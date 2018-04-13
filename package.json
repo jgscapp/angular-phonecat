@@ -1,4 +1,4 @@
-env{
+{
     "name": "angular-phonecat",
     "private": true,
     "version": "0.0.0",
